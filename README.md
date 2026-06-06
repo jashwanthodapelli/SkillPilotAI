@@ -1,5 +1,3 @@
-# SkillPilotAIHere's a professional README you can directly use for your SkillPilot project and showcase to recruiters, internship evaluators, and GitHub visitors.
-
 # 🚀 SkillPilot AI
 
 > AI-Powered Career Roadmap & Interview Preparation Platform
